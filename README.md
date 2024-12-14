@@ -2,20 +2,20 @@
 It works 100%.
 
 # Lifetime
-Unlimited Accounts
-Receive updates from the main server
-Professional support
-Annual renewal
-Price per server:
-$10
+Unlimited Accounts <br>
+Receive updates from the main server<br>
+Professional support<br>
+Annual renewal<br>
+Price per server:<br>
+$10<br>
 
 # No time limit
-Unlimited Accounts
-Receive updates from the main server
-Professional support
-Never renewed
-Price per server:
-$100
+Unlimited Accounts<br>
+Receive updates from the main server<br>
+Professional support<br>
+Never renewed<br>
+Price per server:<br>
+$100<br>
 
 # Software included:
 
