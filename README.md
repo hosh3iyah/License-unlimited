@@ -17,7 +17,7 @@ Never renewed<br>
 Price per server:<br>
 $100<br>
 
-# Software included:
+# Softwares :
 
 cPanel , CloudLinux , Litespeed x core , WHMCs , Jetbackup , Virtuaizor , DirectAdmin , Plesk , WHM Reseller , Softaculous , 
 
