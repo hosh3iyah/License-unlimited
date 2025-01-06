@@ -21,4 +21,4 @@ $100<br>
 
 cPanel , CloudLinux , Litespeed x core , WHMCs , Jetbackup , Virtuaizor , DirectAdmin , Plesk , WHM Reseller , Softaculous , 
 
-Contact me on Telegram : [https://t.me/HO3HSIYAH](https://t.me/hosh3iyah)
+Contact me on Telegram : [https://t.me/HOSH3IYAH](https://t.me/hosh3iyah)
