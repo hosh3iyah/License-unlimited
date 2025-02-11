@@ -1,6 +1,7 @@
 # cPanel License – Unlimited
 ✅ 100% Working & Verified<br>
-🎟 Lifetime Plan<br>
+
+# 🎟 Lifetime Plan
 ✔ Unlimited Accounts<br>
 ✔ Receive updates from the main server<br>
 ✔ Professional support<br>
