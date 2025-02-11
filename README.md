@@ -1,24 +1,20 @@
-# cPanel-License-unlimited
-It works 100%.
+# cPanel License – Unlimited
+✅ 100% Working & Verified<br>
+🎟 Lifetime Plan<br>
+✔ Unlimited Accounts<br>
+✔ Receive updates from the main server<br>
+✔ Professional support<br>
+✔ Annual renewal<br>
+💲 Price per server: $10<br>
 
-# Lifetime
-Unlimited Accounts <br>
-Receive updates from the main server<br>
-Professional support<br>
-Annual renewal<br>
-Price per server:<br>
-$10<br>
+# ⏳ No Time Limit Plan
+✔ Unlimited Accounts<br>
+✔ Receive updates from the main server<br>
+✔ Professional support<br>
+✔ No renewal required<br>
+💲 Price per server: $100<br>
 
-# No time limit
-Unlimited Accounts<br>
-Receive updates from the main server<br>
-Professional support<br>
-Never renewed<br>
-Price per server:<br>
-$100<br>
+# 📦 Supported Software
+cPanel, CloudLinux, LiteSpeed X Core, WHMCS, JetBackup, Virtuozzo, DirectAdmin, Plesk, WHM Reseller, Softaculous
 
-# Softwares :
-
-cPanel , CloudLinux , Litespeed x core , WHMCs , Jetbackup , Virtuaizor , DirectAdmin , Plesk , WHM Reseller , Softaculous , 
-
-Contact me on Telegram : [https://t.me/HOSH3IYAH](https://t.me/hosh3iyah)
+📩 Contact me on Telegram: [@HOSH3IYAH](https://t.me/hosh3iyah)
