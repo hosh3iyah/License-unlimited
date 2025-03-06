@@ -1,4 +1,4 @@
-# cPanel License – Unlimited
+# License – Unlimited
 ✅ 100% Working & Verified<br>
 
 # 🎟 Lifetime Plan
