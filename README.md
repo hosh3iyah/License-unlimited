@@ -18,6 +18,6 @@
 # 📦 Supported Software
 cPanel, CloudLinux, LiteSpeed X Core, WHMCS, JetBackup, Vritualizor, DirectAdmin, Plesk, WHM Reseller, Softaculous
 
-** Each software is priced per server **
+**Each software is priced per server**
 
 📩 Contact me on Telegram: [@HOSH3IYAH](https://t.me/hosh3iyah)
