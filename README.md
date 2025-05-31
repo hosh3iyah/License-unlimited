@@ -16,7 +16,7 @@
 💲 Price per server: $100<br>
 
 # 📦 Supported Software
-cPanel, CloudLinux, LiteSpeed X Core, WHMCS, JetBackup, Vritualizor, DirectAdmin, Plesk, WHM Reseller, Softaculous
+cPanel<br> CloudLinux<br> LiteSpeed X Core<br> WHMCS<br> JetBackup<br> Vritualizor<br> DirectAdmin<br> Plesk<br> WHM Reseller<br> Softaculous<br> Imunify360<br> SitePad<br> cPGuard<br> DAReseller<br> Fleet SSL
 
 Note : **Each software is priced per server**
 
